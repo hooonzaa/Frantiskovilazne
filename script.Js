@@ -1,4 +1,3 @@
-
 const quotes = [
     "Představte si to ticho, kdyby lidé říkali jen to, co vědí.",
     "Čtenář prožije tisíc životů, než zemře.",
@@ -38,3 +37,12 @@ function addNewQuote() {
         newQuoteInput.value = "";
     }
 }
+itemlist.innerhtml ="";
+Itemlength = 0;
+ let last output
+ output
+ if output!= lastoutput {
+write last output
+
+
+ }
